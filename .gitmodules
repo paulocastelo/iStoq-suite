@@ -1,0 +1,12 @@
+[submodule "backends/csharp"]
+	path = backends/csharp
+	url = https://github.com/paulocastelo/iStoq-backend-csharp
+[submodule "backends/java"]
+	path = backends/java
+	url = https://github.com/paulocastelo/iStoq-backend-java
+[submodule "frontends/vue"]
+	path = frontends/vue
+	url = https://github.com/paulocastelo/iStoq-frontend-vue
+[submodule "frontends/flutter"]
+	path = frontends/flutter
+	url = https://github.com/paulocastelo/iStoq-frontend-flutter
