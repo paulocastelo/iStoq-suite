@@ -1,9 +1,3 @@
-Haha 😄 sim, tá bem minimalista, mas nada que a gente não possa transformar em algo épico!
-
-Vamos deixar esse `README.md` digno de uma **suíte profissional** com:
-
----
-
 ### ✅ Seções sugeridas para o `README.md` do `iStoq-suite`
 
 ```markdown
