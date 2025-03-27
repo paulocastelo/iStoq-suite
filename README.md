@@ -1,6 +1,3 @@
-### ✅ Seções sugeridas para o `README.md` do `iStoq-suite`
-
-```markdown
 # 🧩 iStoq-suite
 
 Projeto de integração dos módulos da suíte **iStoq**, organizados como submódulos Git.  
